@@ -1,4 +1,4 @@
-﻿using System.ClientModel;
+using System.ClientModel;
 using AICalendar.Services;
 using Microsoft.Extensions.AI;
 using ModelContextProtocol.Client;
